@@ -25,3 +25,5 @@ Notebook](https://github.com/dSilu/CreditCardDefaultPrediction/blob/main/credit_
 **For better experience view the notebook @ [NBViewer](https://nbviewer.org/github/dSilu/CreditCardDefaultPrediction/blob/main/credit_card_default_anlysis.ipynb)**
 
 **Analyze credit application by using the [credit analyzer notebook](https://colab.research.google.com/drive/1lRVyG8GTvoPUrRb1ebLVVTNEip9iHtes?usp=sharing "Colab") and [cleaned and sampled dataset](https://raw.githubusercontent.com/dSilu/CreditCardDefaultPrediction/main/resampled_credit_data.csv "Dataset")**
+
+PS: _If you like this project, hit the ⭐ on upper right corner_. ❤️
